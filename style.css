@@ -10,3 +10,10 @@ h1 {
 body {
     font-family: 'Noto Sans', sans-serif;
 }
+@font-face {
+  font-family: 'Fairfax Pona HD';
+  src: url('fonts/fairfax-pona-hd.ttf') format('truetype');
+}
+.sitelen-pona {
+  font-family: 'Fairfax Pona HD', monospace;
+}
