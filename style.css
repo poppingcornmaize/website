@@ -12,8 +12,8 @@ body {
 }
 @font-face {
   font-family: 'Fairfax Pona HD';
-  src: url('fonts/fairfax-pona-hd.ttf') format('truetype');
+  src: url('fonts/fairfax-pona-hd.ttf') format('opentype');
 }
 .sitelen-pona {
-  font-family: 'Fairfax Pona HD', monospace;
+  font-family: 'FairfaxPona', monospace;
 }
