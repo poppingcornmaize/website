@@ -13,6 +13,7 @@ body {
 @font-face {
   font-family: 'Fairfax Pona HD';
   src: url('fonts/fairfax-pona-hd.ttf') format('opentype');
+  font-display: swap
 }
 .sitelen-pona {
   font-family: 'FairfaxPona', monospace;
