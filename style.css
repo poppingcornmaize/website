@@ -11,7 +11,7 @@ body {
     font-family: 'Noto Sans', sans-serif;
 }
 @font-face {
-  font-family: 'Fairfax Pona HD';
+  font-family: 'FairfaxPona';
   src: url('fonts/fairfax-pona-hd.ttf') format('truetype');
   font-display: swap
 }
